@@ -1,0 +1,10 @@
+{  
+    red: [(None,DROWNED,None,0,0],
+    blue: [(7,0),LIVE,None,1,1],
+    green: [(None,DEAD,None,0,0],
+    yellow: [(6,5),LIVE,helmet,1,2],
+    magic_staff: [(5,2),False],
+    helmet: [(6,5),True],
+    dagger: [(2,5),False],
+    axe: [(7,5),False],
+}

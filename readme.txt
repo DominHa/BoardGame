@@ -1,0 +1,3 @@
+The compiled classes should already be in src/main/java so if you navigate there and enter "java Main" in the terminal the program should run. The text file with the list of commands (moves.txt) will need to be modified and saved within src/main/java if you want to run the program this way. This is also the same directory final_state.json will be generated/updated
+
+Otherwise feel free to open up this project in an IDE of your choice and run the main method (in Main.java) there. Your IDE (especially if it's Intellij) should pick up the moves.txt file here in the root of the project. This is also where final_state.json will be generated/updated.
